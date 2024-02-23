@@ -1,0 +1,111 @@
+body {
+  background-color: rgb(245, 245, 245);
+ overflow-y: scroll;
+ overflow-x: hidden;
+}
+
+.font{
+  font-family: 'Work Sans', sans-serif;
+font-size: 20px;
+}
+.imgbody{
+  max-width: 100%;
+  background-position: center;
+  background-size: cover;
+  position: relative;
+}
+.App{
+  background-size: cover;
+}
+body, html {
+  height: 100%;
+  
+}
+.bg {
+  /* The image used */
+
+
+  /* Full height */
+ 
+width: 100%;
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.service{
+  font-size: 30px;
+  padding: 5px;
+  text-align: center;
+  color: azure;
+
+}
+.card-total{
+  display:inline;
+  text-align: center;
+  justify-content: center;
+  margin: 20px;
+  
+}
+.Header{
+  background-color: rgb(245, 245, 245);
+}
+.title{
+font-size: 25px;
+color:black;
+margin-top: 15px;
+font-weight: 500;
+}
+.underline{
+height: 1px;
+width: 150px;
+border-radius: 10px;
+border: 2px solid #1e1b1a;
+}
+.Category{
+  background-color: rgb(245, 245, 245);
+
+}
+.image-body{
+ width: 100%;
+ height: 80vh;
+  background-position: center;
+  background-size:cover;
+  position: relative;
+}
+.app-title{
+  text-align: center;
+  align-items: center;
+  font-size: 30px;
+    
+}
+.btn{
+  color:black;
+  background-color: aliceblue;
+
+}
+.btn:hover{
+  background-color:rgb(115, 185, 185);
+ color: #1e1b1a;
+  transition: 0.4s;
+  
+}
+.nav{
+  background-color: #e0b6b6;
+}
+.img-item{
+  width: 200px;
+  border-radius: 5px;
+  height: 150px;
+}
+.item-list{
+  background-color: rgb(245, 245, 245);
+}
+.item-title{
+  font-size: 20px;
+
+}
+.item-price{
+  font-size: 15px;
+  color:#a4a4a4;
+}
